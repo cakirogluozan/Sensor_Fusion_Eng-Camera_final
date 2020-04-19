@@ -6,29 +6,29 @@
 
 * FP.1 Match 3D Objects
         
-        FinalProject_Camera.cpp  line:225
-        camFusion_Student.cpp    line:272-317
+        FinalProject_Camera.cpp  line:226-228
+        camFusion_Student.cpp    line:272-316
 
     Extraction of the optimum bounding box proposal (by yolo) amongst others by utilizing matched keypoints in the image. The bounding box that contains the most number of keypoints is selected as the optimum bounding box.
 
 * FP.2 Compute Lidar-based TTC
 
-        FinalProject_Camera.cpp  line:263
+        FinalProject_Camera.cpp  line:280
         camFusion_Student.cpp    line:208-269
     
     Lidar points of the optimum bounding box (extracted in FP.1) is filtered by their y dimensional values. If the point is not in lane width range, it is excluded.
     
 * FP.3 Associate Keypoint Correspondences with Bounding Boxes
         
-        FinalProject_Camera.cpp  line:267
+        FinalProject_Camera.cpp  line:286
         camFusion_Student.cpp    line:133-150
 
     If region of interest contains the keypoint and matched keypoint then the corresponding keypoints are added to bounding box keypoints and matched keypoints.
 
 * FP.4 Compute Camera-based TTC   
          
-        FinalProject_Camera.cpp  line:271
-        camFusion_Student.cpp    line:154-215
+        FinalProject_Camera.cpp  line:288
+        camFusion_Student.cpp    line:154-202
 
     Distance between the previous and current keypoint is evaluated and and distance ratio is evaluated.
 
