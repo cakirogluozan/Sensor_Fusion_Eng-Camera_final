@@ -1,0 +1,3 @@
+/home/ocakirog/SFND_Camera-final/build/CMakeFiles/rebuild_cache.dir
+/home/ocakirog/SFND_Camera-final/build/CMakeFiles/3D_object_tracking.dir
+/home/ocakirog/SFND_Camera-final/build/CMakeFiles/edit_cache.dir
