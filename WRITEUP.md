@@ -36,7 +36,7 @@
 
     According to the graph in statistics.html, lidar TTC estimation differs with the three camera TTC estimation on TTC evaluation between 3rd, 4th and 9th, 10th images. The estimation may be caused by taking the median distance ratios of sequential timestamps. Even though, it mostly gives the right result, outlier may cause shift in the median value.
 
-* FP.5 Performance Evaluation 1
+* FP.6 Performance Evaluation 2
 
     The log file of the selected 3 detector-descriptor combination can be found in log/ directory.
         
