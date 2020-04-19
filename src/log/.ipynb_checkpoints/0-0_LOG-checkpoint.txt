@@ -1,0 +1,89 @@
+Detector SHITOMASI Descriptor: BRISK Image Index: 1
+******************************
+TTC Camera: 13.9019 s 
+TTC Lidar:  12.6156 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 2
+******************************
+TTC Camera: 12.9876 s 
+TTC Lidar:  12.7142 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 3
+******************************
+TTC Camera: 13.2474 s 
+TTC Lidar:  14.191 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 4
+******************************
+TTC Camera: 12.8899 s 
+TTC Lidar:  16.7894 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 5
+******************************
+TTC Camera: 13.4476 s 
+TTC Lidar:  15.8465 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 6
+******************************
+TTC Camera: 13.5266 s 
+TTC Lidar:  12.8835 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 7
+******************************
+TTC Camera: 12.7172 s 
+TTC Lidar:  12.0844 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 8
+******************************
+TTC Camera: 13.712 s 
+TTC Lidar:  13.2241 s 
+------------------------------Detector SHITOMASI Descriptor: BRISK Image Index: 9
+******************************
+TTC Camera: 11.5126 s 
+TTC Lidar:  13.1241 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 10
+******************************
+TTC Camera: 13.456 s 
+TTC Lidar:  11.2746 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 11
+******************************
+TTC Camera: 11.9816 s 
+TTC Lidar:  12.9086 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 12
+******************************
+TTC Camera: 11.8135 s 
+TTC Lidar:  9.05978 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 13
+******************************
+TTC Camera: 12.0367 s 
+TTC Lidar:  10.0644 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 14
+******************************
+TTC Camera: 11.342 s 
+TTC Lidar:  9.69863 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 15
+******************************
+TTC Camera: 9.07784 s 
+TTC Lidar:  8.62157 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 16
+******************************
+TTC Camera: 10.4612 s 
+TTC Lidar:  9.61552 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 17
+******************************
+TTC Camera: 11.6823 s 
+TTC Lidar:  9.71241 s 
+------------------------------
+Detector SHITOMASI Descriptor: BRISK Image Index: 18
+******************************
+TTC Camera: 9.73863 s 
+TTC Lidar:  8.4988 s 
+------------------------------

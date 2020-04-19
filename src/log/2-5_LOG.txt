@@ -1,0 +1,90 @@
+Detector FAST Descriptor: SIFT Image Index: 1
+******************************
+TTC Camera: 12.2747 s 
+TTC Lidar:  12.6156 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 2
+******************************
+TTC Camera: 11.3986 s 
+TTC Lidar:  12.7142 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 3
+******************************
+TTC Camera: 14.0617 s 
+TTC Lidar:  14.191 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 4
+******************************
+TTC Camera: 13.1232 s 
+TTC Lidar:  16.7894 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 5
+******************************
+TTC Camera: 14.3519 s 
+TTC Lidar:  15.8465 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 6
+******************************
+TTC Camera: 12.828 s 
+TTC Lidar:  12.8835 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 7
+******************************
+TTC Camera: 12.409 s 
+TTC Lidar:  12.0844 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 8
+******************************
+TTC Camera: 12.6899 s 
+TTC Lidar:  13.2241 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 9
+******************************
+TTC Camera: 12.5506 s 
+TTC Lidar:  13.1241 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 10
+******************************
+TTC Camera: 12.6708 s 
+TTC Lidar:  11.2746 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 11
+******************************
+TTC Camera: 11.8062 s 
+TTC Lidar:  12.9086 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 12
+******************************
+TTC Camera: 11.1726 s 
+TTC Lidar:  9.05978 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 13
+******************************
+TTC Camera: 11.5632 s 
+TTC Lidar:  10.0644 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 14
+******************************
+TTC Camera: 11.3432 s 
+TTC Lidar:  9.69863 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 15
+******************************
+TTC Camera: 10.8743 s 
+TTC Lidar:  8.62157 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 16
+******************************
+TTC Camera: 10.1671 s 
+TTC Lidar:  9.61552 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 17
+******************************
+TTC Camera: 9.44764 s 
+TTC Lidar:  9.71241 s 
+------------------------------
+Detector FAST Descriptor: SIFT Image Index: 18
+******************************
+TTC Camera: 10.6624 s 
+TTC Lidar:  8.4988 s 
+------------------------------

@@ -1,0 +1,90 @@
+Detector AKAZE Descriptor: BRIEF Image Index: 1
+******************************
+TTC Camera: 13.2804 s 
+TTC Lidar:  12.6156 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 2
+******************************
+TTC Camera: 15.381 s 
+TTC Lidar:  12.7142 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 3
+******************************
+TTC Camera: 13.6728 s 
+TTC Lidar:  14.191 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 4
+******************************
+TTC Camera: 13.9793 s 
+TTC Lidar:  16.7894 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 5
+******************************
+TTC Camera: 15.1106 s 
+TTC Lidar:  15.8465 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 6
+******************************
+TTC Camera: 13.91 s 
+TTC Lidar:  12.8835 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 7
+******************************
+TTC Camera: 15.9355 s 
+TTC Lidar:  12.0844 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 8
+******************************
+TTC Camera: 14.4514 s 
+TTC Lidar:  13.2241 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 9
+******************************
+TTC Camera: 13.5101 s 
+TTC Lidar:  13.1241 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 10
+******************************
+TTC Camera: 11.6672 s 
+TTC Lidar:  11.2746 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 11
+******************************
+TTC Camera: 12.3566 s 
+TTC Lidar:  12.9086 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 12
+******************************
+TTC Camera: 11.6794 s 
+TTC Lidar:  9.05978 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 13
+******************************
+TTC Camera: 10.119 s 
+TTC Lidar:  10.0644 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 14
+******************************
+TTC Camera: 9.85941 s 
+TTC Lidar:  9.69863 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 15
+******************************
+TTC Camera: 9.48744 s 
+TTC Lidar:  8.62157 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 16
+******************************
+TTC Camera: 9.69977 s 
+TTC Lidar:  9.61552 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 17
+******************************
+TTC Camera: 9.50336 s 
+TTC Lidar:  9.71241 s 
+------------------------------
+Detector AKAZE Descriptor: BRIEF Image Index: 18
+******************************
+TTC Camera: 9.12903 s 
+TTC Lidar:  8.4988 s 
+------------------------------
