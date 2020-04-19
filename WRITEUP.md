@@ -32,7 +32,11 @@
 
     Distance between the previous and current keypoint is evaluated and and distance ratio is evaluated.
 
-* FP.5-6 Performance Evaluation 1-2
+* FP.5 Performance Evaluation 1
+
+    According to the graph in statistics.html, lidar TTC estimation differs with the three camera TTC estimation on TTC evaluation between 3rd, 4th and 9th, 10th images. The estimation may be caused by taking the median distance ratios of sequential timestamps. Even though, it mostly gives the right result, outlier may cause shift in the median value.
+
+* FP.5 Performance Evaluation 1
 
     The log file of the selected 3 detector-descriptor combination can be found in log/ directory.
         
@@ -40,6 +44,6 @@
         2-5_LOG.txt - ["FAST" - "SIFT"]
         5-1_LOG.txt - ["AKAZE" - "BRIEF"]
     
-    Moreover their statistics is visualized on a jupyter notebook. 
+    Moreover their statistics is visualized on a jupyter notebook in statistics.html file.
 
   
